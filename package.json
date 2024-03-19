@@ -1,0 +1,29 @@
+{
+  "name": "autoscript-lib",
+  "version": "1.0.0",
+  "description": "autoscript-crypto",
+  "main": "index.js",
+  "bugs": "https://github.com/hellessy/autoscript-lib/issues",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hellessy/autoscript-lib.git"
+  },
+  "keywords": [
+    "utils",
+    "autoscript",
+    "hellessy",
+    "lib"
+  ],
+  "author": "hellessy",
+  "license": "ISC",
+  "dependencies": {
+    "base-validation-library": "^1.0.10",
+    "ethjs-unit": "^0.1.6",
+    "puppeteer": "^22.5.0",
+    "web3": "^4.6.0",
+    "web3-utils": "^4.2.1"
+  }
+}
